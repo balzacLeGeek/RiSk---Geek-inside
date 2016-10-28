@@ -35,7 +35,8 @@ body{
 
 /* HEADER */
 .header {
-  height: 700px !important;
+  height: auto !important;
+  padding-bottom: 75px;
   background: url(../imgs/site/fondHeader.jpg);
   background-size: cover;
   overflow: hidden;
@@ -56,12 +57,47 @@ body{
 .header nav ul .active a {
   color: #84006B !important;
 }
-.message-accueil {
-  margin-top: -50px!important;
+.message-accueil h4 {
+  line-height: 27px!important
+}
+.message-accueil h4 .small {
+  font-size: 18px; 
+}
+.message-accueil h4 .x-small {
+  font-size: 15px; 
+}
+
+/* Down Logiciel */
+.cadre-telechargement {
+  margin-top: 35px;
+}
+.cadre-telechargement .btn {
+  height: 58px!important;
+  width: 220px;
+  padding-top: 9px;
+  padding-left: 10px!important;
+  text-align: left!important;
+  background: #006C91;
+  margin: 5px;
+}
+.btn-plateforme {
+  font-size: 40px;
+}
+.plateforme {
+  position: relative;
+  left: 5px;
+  top: -12px;
+  font-size: 25px;
+}
+.version-plateforme {
+  position: absolute;
+  left: 55px;
+  bottom: -2px;
+  font-size: 13px;
 }
 .section-suivant {
   text-align: center;
-  margin-top: -145px;
+  margin-top: -100px;
 }
 .section-suivant img {
   opacity: 0.3;
@@ -74,24 +110,6 @@ body{
   opacity: 0.7;
   top: 5px!important;
   transition: all linear .3s;
-}
-.slides {
-  background: none !important;
-}
-.slides  {
-  padding-top: 25px!important;
-  height: 450px!important;
-}
-.slides  img {
-  position: relative!important;
-  margin: auto!important;
-  height: 100px!important;
-  width: 100px!important;
-  margin-left: -200px!important;
-}
-.caption {
-  margin-top: 15px!important;
-  text-align: center!important;
 }
 /* CORPS */
 .corps {

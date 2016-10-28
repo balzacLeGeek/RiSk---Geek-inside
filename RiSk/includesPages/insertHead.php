@@ -1,4 +1,5 @@
 <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 	<title>#RiSk[Solution]</title>
 	<link rel="icon" href="assets/imgs/favicon/favicon.png" sizes="32x32">
 	<link rel="stylesheet" type="text/css" href="assets/css/materialize.min.css">
@@ -9,3 +10,4 @@
 	<script type="text/javascript" src="assets/js/TweenMax.min.js"></script>
 	<script type="text/javascript" src="assets/js/jquery.cooltextp.js"></script>
 	<script type="text/javascript" src="assets/js/angular.min.js"></script>
+	<script type="text/javascript" src="assets/js/cooltext.min.js"></script>

@@ -4,9 +4,8 @@ $(function() {
 	$(".dropdown-button").dropdown();
 	$('select').material_select();
 	$('.modal-trigger').leanModal();
-	$(document).ready(function() {
-      $('.slider').slider({height: 300, full_width: false, transition: 500, interval: 2500, indicators: false});
-    });
+    $('.slider').slider({height: 300, full_width: false, transition: 500, interval: 2500, indicators: false});
+    $('.carousel').carousel();
 
 	/*$('#tagsphere').tagSphere({
 		height: 300,

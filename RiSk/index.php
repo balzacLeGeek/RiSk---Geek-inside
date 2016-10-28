@@ -35,45 +35,53 @@
 					</div>
 				</nav>
 			</div>
-			
-			<div class="slider">
-				<ul class="slides">
-					<li>
-						<div class="caption center-align">
-							<img src="assets/imgs/site/datainside.png">
-							<h3>Protégeons notre pays</h3>
-							<h5 class="light grey-text text-lighten-3">de la cybercriminalité</h5>
-						</div>
-					</li>
-					<li>
-						<div class="caption center-align">
-							<h3>Explosion des fraudes</h3>
-							<h5 class="light grey-text text-lighten-3">en entreprise</h5>
-						</div>
-					</li>
-					<li>
-						<div class="caption center-align">
-							<h3>This is our big Tagline!</h3>
-							<h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-						</div>
-					</li>
-					<li>
-						<div class="caption center-align">
-							<h3>This is our big Tagline!</h3>
-							<h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-						</div>
-					</li>
 
-				</ul>
-			</div>	
+			<div class="row message-accueil">
+				<div class="col s12 m8 offset-m2 l8 offset-l2 center-align animated flipInX">
+					<div class="carousel">
+						<a class="carousel-item" href="#one!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item" href="#two!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item" href="#three!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item" href="#three!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item" href="#three!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+					</div>
+					<h4 class="white-text text-darken-3">La sécurité de vos données nous est précieux<br>
+					<span class="x-small">Contre toutes formes de cybercriminalité <br></span>
+					<span class="grey-text small">Fraude - Espionnage - Escroquerie - Piratage - Détournement de données confidentielle - Usurpation d'identité</span>
+					</h4>
+				</div>
+				<div class="col s12 m12 l12 center-align animated slideInUp cadre-telechargement">
+					<a class="waves-effect waves-light btn">
+						<span class="icon fa fa-windows btn-plateforme"></span> 
+						<span class="plateforme">
+							Windows
+						</span>
+						<span class="version-plateforme">
+							<!-- Xp - Vista - 7 - 8 et 10 -->
+							32bits / 64 bits
+						</span> 
+					</a>
+					<a class="waves-effect waves-light btn">
+						<span class="icon fa fa-linux btn-plateforme"></span> 
+						<span class="plateforme">
+							LINUX
+						</span>
+						<span class="version-plateforme">
+							32bits / 64 bits
+						</span> 
+					</a>
+				</div>
+			</div>
 		</div>
 
 		<div class="section-suivant">
-			<img src="assets/imgs/site/next-page.png">
+			<a href="#corps">
+				<img src="assets/imgs/site/next-page.png">
+			</a>
 		</div>
 
 	<!-- CORPS -->
-		<div class="corps">
+		<div id="corps" class="corps">
 
 		</div>
 		<?php 
