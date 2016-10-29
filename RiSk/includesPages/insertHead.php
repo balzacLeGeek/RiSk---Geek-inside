@@ -7,7 +7,3 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/animate.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/design.css">
 	<script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
-	<script type="text/javascript" src="assets/js/TweenMax.min.js"></script>
-	<script type="text/javascript" src="assets/js/jquery.cooltextp.js"></script>
-	<script type="text/javascript" src="assets/js/angular.min.js"></script>
-	<script type="text/javascript" src="assets/js/cooltext.min.js"></script>

@@ -17,7 +17,7 @@
 				<nav>
 					<div class="nav-wrapper">
 						<a href="#!" class="brand-logo">
-							<img src="assets/imgs/site/logoRiSkSite.png">
+							<img src="assets/imgs/site/logoIntelleek.png">
 						</a>
 						<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 						<ul class="right hide-on-med-and-down">
@@ -39,11 +39,11 @@
 			<div class="row message-accueil">
 				<div class="col s12 m8 offset-m2 l8 offset-l2 center-align animated flipInX">
 					<div class="carousel">
-						<a class="carousel-item" href="#one!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
-						<a class="carousel-item" href="#two!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
-						<a class="carousel-item" href="#three!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
-						<a class="carousel-item" href="#three!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
-						<a class="carousel-item" href="#three!"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>
+						<a class="carousel-item"><img src="assets/imgs/site/logoAccueil.png" class="responsive-img animated flipInY"></a>	
 					</div>
 					<h4 class="white-text text-darken-3">La sécurité de vos données nous est précieux<br>
 					<span class="x-small">Contre toutes formes de cybercriminalité <br></span>
