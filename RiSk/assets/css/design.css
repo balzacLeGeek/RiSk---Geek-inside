@@ -36,7 +36,7 @@ body{
 /* HEADER */
 .header {
   height: auto !important;
-  padding-bottom: 75px;
+  padding-bottom: 200px;
   background: url(../imgs/site/fondHeader.jpg);
   background-size: cover;
   overflow: hidden;
@@ -95,24 +95,44 @@ body{
   bottom: -2px;
   font-size: 13px;
 }
-.section-suivant {
+.cadre-section-suivant {
   text-align: center;
-  margin-top: -100px;
+  margin-top: -60px!important;
 }
-.section-suivant img {
-  opacity: 0.3;
+.cadre-section-suivant img {
   cursor: pointer;
   position: relative;
   margin: auto;
   transition: all linear .3s;
 }
-.section-suivant img:hover {
+.cadre-section-suivant img:hover {
   opacity: 0.7;
-  top: 5px!important;
+  top: 10px!important;
   transition: all linear .3s;
+}
+.section-suivant {
+  position: relative;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #2F4B61;
 }
 /* CORPS */
 .corps {
-  height: 400px;
+  height: 700px;
   background: white;
+  margin-top: -10px!important;
+}
+.cadre-section {
+  margin-top: -40px!important;
+  padding-top: 50px;
+  margin-bottom: 25px!important;
+}
+.section-1 {
+  height: auto;
+  padding-bottom: 25px!important;
+}
+.grand-titre{
+  font-size: 35px;
 }

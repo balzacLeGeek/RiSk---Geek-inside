@@ -74,15 +74,152 @@
 			</div>
 		</div>
 
-		<div class="section-suivant">
-			<a href="#corps">
-				<img src="assets/imgs/site/next-page.png">
-			</a>
+		<div class="row cadre-section-suivant">
+			<div class="section-suivant">
+				<a href="#corps">
+					<img src="assets/imgs/site/next-page.png">
+				</a>
+			</div>
 		</div>
 
 	<!-- CORPS -->
-		<div id="corps" class="corps">
+		<div id="corps" class="row corps">
+			<div class="row lighten-3 cadre-section">
+				<div class="col s12 m10 offset-m1 l10 offset-l1 center-align section-1">
+					<p class="grand-titre grey-text text-darken-3">La Cybercriminalité!<br> C'est quoi au juste?</p>
 
+					<div class="row">
+						<div class="col s10 offset-s1 m6 l4">
+							<a href="">
+								<div class="card">
+									<div class="card-image">
+										<img src="images/sample-1.jpg">
+										<span class="card-title">Card Title</span>
+									</div>
+									<div class="card-content">
+										<p>Comme la criminalité traditionnelle, la cybercriminalité peut prendre diverses formes et peut se produire à tout moment et n'importe où.Les cybercriminels utilisent un certain nombre de méthodes, en fonction de leurs compétences et de leurs objectifs ...</p>
+									</div>
+									<div class="card-action">
+										<a href="#">Voir la suite ...</a>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col s10 offset-s1 m6 l4">
+							<a href="">
+								<div class="card">
+									<div class="card-image">
+										<img src="images/sample-1.jpg">
+										<span class="card-title">Card Title</span>
+									</div>
+									<div class="card-content">
+										<p>Comme la criminalité traditionnelle, la cybercriminalité peut prendre diverses formes et peut se produire à tout moment et n'importe où.Les cybercriminels utilisent un certain nombre de méthodes, en fonction de leurs compétences et de leurs objectifs ...</p>
+									</div>
+									<div class="card-action">
+										<a href="#">Voir la suite ...</a>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col s10 offset-s1 m6 l4">
+							<a href="">
+								<div class="card">
+									<div class="card-image">
+										<img src="images/sample-1.jpg">
+										<span class="card-title">Card Title</span>
+									</div>
+									<div class="card-content">
+										<p>Comme la criminalité traditionnelle, la cybercriminalité peut prendre diverses formes et peut se produire à tout moment et n'importe où.Les cybercriminels utilisent un certain nombre de méthodes, en fonction de leurs compétences et de leurs objectifs ...</p>
+									</div>
+									<div class="card-action">
+										<a href="#">Voir la suite ...</a>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row lighten-3 cadre-section blue-grey lighten-3">
+				<div class="col s12 m10 offset-m1 l10 offset-l1 center-align section-1">
+					<p class="grand-titre grey-text text-darken-3">La Cybercriminalité!<br> C'est quoi au juste?</p>
+
+					<div class="row">
+						<div class="col s10 offset-s1 m6 l4">
+							<a href="">
+								<div class="card">
+									<div class="card-image">
+										<img src="images/sample-1.jpg">
+										<span class="card-title">Card Title</span>
+									</div>
+									<div class="card-content">
+										<p>Comme la criminalité traditionnelle, la cybercriminalité peut prendre diverses formes et peut se produire à tout moment et n'importe où.Les cybercriminels utilisent un certain nombre de méthodes, en fonction de leurs compétences et de leurs objectifs ...</p>
+									</div>
+									<div class="card-action">
+										<a href="#">Voir la suite ...</a>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col s10 offset-s1 m6 l4">
+							<a href="">
+								<div class="card">
+									<div class="card-image">
+										<img src="images/sample-1.jpg">
+										<span class="card-title">Card Title</span>
+									</div>
+									<div class="card-content">
+										<p>Comme la criminalité traditionnelle, la cybercriminalité peut prendre diverses formes et peut se produire à tout moment et n'importe où.Les cybercriminels utilisent un certain nombre de méthodes, en fonction de leurs compétences et de leurs objectifs ...</p>
+									</div>
+									<div class="card-action">
+										<a href="#">Voir la suite ...</a>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col s10 offset-s1 m6 l4">
+							<a href="">
+								<div class="card">
+									<div class="card-image">
+										<img src="images/sample-1.jpg">
+										<span class="card-title">Card Title</span>
+									</div>
+									<div class="card-content">
+										<p>Comme la criminalité traditionnelle, la cybercriminalité peut prendre diverses formes et peut se produire à tout moment et n'importe où.Les cybercriminels utilisent un certain nombre de méthodes, en fonction de leurs compétences et de leurs objectifs ...</p>
+									</div>
+									<div class="card-action">
+										<a href="#">Voir la suite ...</a>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row lighten-3 cadre-section white">
+				<div class="col s12 m10 offset-m1 l10 offset-l1 center-align section-1">
+					<div class="row">
+						<div class="col s10 offset-s1 m6 l4">
+							<a href="">
+								<div class="card">
+									<div class="card-image">
+										<img src="images/sample-1.jpg">
+										<span class="card-title">Card Title</span>
+									</div>
+									<div class="card-content">
+										<p>Comme la criminalité traditionnelle, la cybercriminalité peut prendre diverses formes et peut se produire à tout moment et n'importe où.Les cybercriminels utilisent un certain nombre de méthodes, en fonction de leurs compétences et de leurs objectifs ...</p>
+									</div>
+									<div class="card-action">
+										<a href="#">Voir la suite ...</a>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<?php 
 			include_once 'includesPages/insertScript.php';
