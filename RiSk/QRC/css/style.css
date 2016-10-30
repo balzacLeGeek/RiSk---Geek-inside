@@ -1,0 +1,30 @@
+.qrcode_tooltip{
+	background:url(../img/qrcodeSelection.png) no-repeat;
+	width:32px;
+	height:32px;
+	position:absolute;
+	margin-top:-25px;
+	margin-left:-13px;
+}
+
+.qrcode_tooltip a{
+	display:block;
+	text-indent:-9999px;
+	cursor:pointer;
+	outline:none
+}
+
+.qrcode_image{
+	position:absolute;
+	background:#fff;
+	padding:2px;
+	border:1px solid #aaa;
+	-moz-border-radius:0.2em;
+	-webkit-border-radius:0.2em;
+	-moz-box-shadow:0 0 1em #999;
+	-webkit-box-shadow:0 0 1em #999;
+}
+
+.qrcode_image{
+	display:block
+}

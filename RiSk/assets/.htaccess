@@ -1,8 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-
-#order deny,allow
-#deny from all
-
-#RewriteCond %{HTTP_HOST} !^www\.risk\.com\assets
-#RewriteRule (.*) http://www.risk.com/$1 [R=301,L]
